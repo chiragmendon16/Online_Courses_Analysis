@@ -6,14 +6,13 @@ This repository contains a **Power BI Dashboard** project that provides a compre
 
 ## 📂 Project Files
 
-- `Online_Courses.csv` → Cleaned dataset used for analysis.
+- <a href ="https://github.com/chiragmendon16/Online_Courses_Analysis/blob/main/Online_Courses.csv">Get the Data Set from Here </a> → Cleaned dataset used for analysis.
 - Power BI Dashboard Screenshots → Visual representations of the insights.
   - Personal Development
   - Business
   - Computer Science
   - Information Technology
-- `PowerBI.pbix` (optional) → If you want to upload the Power BI source file.
-
+- <a href ="https://github.com/chiragmendon16/Online_Courses_Analysis/tree/main/screenshots">PowerBi Dashboard Images</a> → See all the PowerBi Screenshots from here.
 ---
 
 ## 📊 Dashboard Features
@@ -43,4 +42,5 @@ This analysis explores:
 - **Microsoft Excel** (for initial cleaning, optional)
 
 ---
-
+## 📷 Sample Dashboard Snapshots
+<img src="https://github.com/chiragmendon16/Online_Courses_Analysis/blob/main/screenshots/screencapture-app-powerbi-reportEmbed-2025-07-23-15_24_54.png" alt="OCA_image" width="200" height="300" style="vertical-align:bottom">
